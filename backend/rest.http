@@ -1,0 +1,14 @@
+GET https://swapi.dev/api/people/1/
+
+
+#### Get users
+GET http://localhost:8000/api/users
+
+
+#### Add a new user
+POST http://localhost:8000/api/users/add
+Content-Type: multipart/form-data
+
+name=MacBook Pro 16.2
+email=abc@gm.lk
+address=Kandy

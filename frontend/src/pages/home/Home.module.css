@@ -1,0 +1,37 @@
+/* Home.module.css */
+
+/* Container styles */
+.container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Card styles */
+.card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+/* Image container styles */
+.profileImageContainer {
+  margin-right: 20px;
+}
+
+/* Profile image styles */
+.profileImg {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 10%;
+  margin-right: 25px;
+}
+
+/* Content styles */
+.card-content {
+  flex: 1;
+}
+
+/* Add other styles as needed */
