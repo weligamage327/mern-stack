@@ -6,7 +6,7 @@ npm-debug.log
 mongo-data/
 
 # IDE and editor files
-.vscode/
+.vscode/ 
 .idea/
 *.suo
 *.ntvs*
